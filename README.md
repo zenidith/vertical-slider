@@ -1,10 +1,14 @@
-<!-- <h3>This project is a HTML and CSS loading animation.</h3>
+<h3>This project is a vertical sliding page which could be used for a product, a portfolio and more. There are two panels, left and right, with text on the left and a picture on the right and two buttons in the middle where the panels meet. If you push one button, the each panel moves up and down simultaneously in manner pleasing to the eye.</h3>
 
-![Digital Clock](images/animation.gif)
+![Vertical Slider](images/demo.gif)
 
-It was made by making a circle and then 3 different arches in different positions. Then I centered the loading text in the middle and made sure to rotate the 'Loading..' text in the opposite direction so that the text in the span wouldn't be upside down. 
+<br>
+
+<h3>CSS</h3>
+
+<h3>JavaScript</h3>
 
 
-You can see it [here!](https://zenidith.github.io/loading-animation/)
+You can see it [here!](https://zenidith.github.io/vertical-slider/)
 
-<h4>Happy coding!</h4> -->
+<h4>Happy coding!</h4>
