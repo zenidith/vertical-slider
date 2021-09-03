@@ -8,7 +8,9 @@
 
 <h3>CSS</h3>
 
+I put a container DIV called 'slider-container' around the left and right panels, as well as the two buttons. Then, I made sure that the container was position:relative and overflow:hidden and that the width and height were both 100vw/h to ensure taking up the entire screen real estate. 
 
+Then I made sure both left/right slides were height:100% to ensure that they took up all of the slider-container screen real estate as well. 
 
 <h3>JavaScript</h3>
 
