@@ -14,6 +14,7 @@ Then I made sure both left/right slides were height:100% to ensure that they too
 
 <h3>JavaScript</h3>
 
+All of the slides and buttons were put into variables to work with in the function. The slideChange function was anonymous and changed the slide up or down if those buttons were pushed. 
 
 You can see it [here!](https://zenidith.github.io/vertical-slider/)
 
